@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Feb 2023 13:46:35 at https://themesflat.com/html/canava/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesflat.com/html/canava/?storefront=envato-elements -O1 "C:\My Web Sites\canva" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:48:16	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/services-detail-v1.html (from https://themesflat.com/html/canava/?storefront=envato-elements)
+13:48:16	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/fonts/glyphicons-halflings-regular.eot (from https://themesflat.com/html/canava/stylesheets/bootstrap.css)
+13:48:16	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/fonts/glyphicons-halflings-regular.eot? (from https://themesflat.com/html/canava/stylesheets/bootstrap.css)
+13:48:16	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/fonts/glyphicons-halflings-regular.woff2 (from https://themesflat.com/html/canava/stylesheets/bootstrap.css)
+13:48:16	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/fonts/glyphicons-halflings-regular.woff (from https://themesflat.com/html/canava/stylesheets/bootstrap.css)
+13:48:16	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/fonts/glyphicons-halflings-regular.ttf (from https://themesflat.com/html/canava/stylesheets/bootstrap.css)
+13:48:16	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/fonts/glyphicons-halflings-regular.svg (from https://themesflat.com/html/canava/stylesheets/bootstrap.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/images/icon/sub@2x.png (from https://themesflat.com/html/canava/stylesheets/responsive.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/images/icon/add@2x.png (from https://themesflat.com/html/canava/stylesheets/responsive.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/images/icon/search-icon@2x.png (from https://themesflat.com/html/canava/stylesheets/responsive.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/index-v2.html (from https://themesflat.com/html/canava/about.html)
+13:48:38	Warning: 	File not parsed, looks like binary: https://themesflat.com/html/canava/fonts/fontawesome-webfont.woff2?v=4.6.3
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/stylesheets/fonts/flexslider-icon.eot (from https://themesflat.com/html/canava/stylesheets/flexslider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/stylesheets/fonts/flexslider-icon.eot? (from https://themesflat.com/html/canava/stylesheets/flexslider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/stylesheets/fonts/flexslider-icon.woff (from https://themesflat.com/html/canava/stylesheets/flexslider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/stylesheets/fonts/flexslider-icon.ttf (from https://themesflat.com/html/canava/stylesheets/flexslider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/stylesheets/fonts/flexslider-icon.svg (from https://themesflat.com/html/canava/stylesheets/flexslider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/stylesheets/owl.video.play.png (from https://themesflat.com/html/canava/stylesheets/owl.carousel.css)
+13:48:38	Warning: 	File not parsed, looks like binary: https://themesflat.com/html/canava/fonts/Simple-Line-Icons.woff2?v=2.3.2
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/img/revolution-slider/gradient/g30.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/img/revolution-slider/gradient/g40.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/shadow1.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/shadow2.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/shadow3.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/gridtile.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/gridtile_white.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/gridtile_3x3.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/gridtile_3x3_white.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/boxed_bgtile.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/navigdots_bgtile.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/bullet.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/bullets.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/bullets2.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/bullet_boxed.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/navigdots.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/small_left.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/small_right.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/arrow_left.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/arrow_right.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/small_left_boxed.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/small_right_boxed.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/arrowleft.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/arrowright.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/coloredbg.png (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/assets/revolution-slider/loader.gif (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/font/revicons90c6.eot?5510888 (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/font/revicons90c6.woff?5510888 (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/font/revicons90c6.ttf?5510888 (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+13:48:38	Error: 	"Not Found" (404) at link https://themesflat.com/html/canava/font/revicons90c6.svg?5510888 (from https://themesflat.com/html/canava/stylesheets/revolution-slider.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 3 seconds : 260 links scanned, 212 files written (11332604 bytes overall) [9667701 bytes received at 78599 bytes/sec], 2669864 bytes transferred using HTTP compression in 125 files, ratio 29%, 65.0 requests per connection
+(47 errors, 2 warnings, 0 messages)

@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+
+<!-- Mirrored from themesflat.com/html/canava/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Feb 2023 08:17:19 GMT -->
+<head>
+
+<meta charset="utf-8">
+<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+<title>MRTC</title>
+<meta name="author" content="#">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css">
+
+<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+
+<link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
+
+<link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
+
+<link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
+
+<link href="icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed" sizes="48x48">
+<link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
+<link href="icon/favicon.png" rel="shortcut icon">
+<script type="text/javascript" src="../GetConsignment.js"></script>
+<script type="text/javascript" src="../jquery-1.11.0.min.js"></script>
+<script src="GetConsignment.js"></script>
+<script src="jquery-1.11.0.min.js"></script>
+<script src="dojo.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#btnGet").click(function () {
+            var obj = new RestAPI();
+            var data = obj.GetConsignmentDetail($("#txtConsignmentNo").val(), sucess,"","MRTCGROUP");
+        });
+    });
+</script>
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="header-sticky page-loading">
+<div class="loading-overlay">
+</div>
+
+<div class="boxed">
+    <div class="site-header header-v2">
+    <div class="flat-top">
+    <div class="container">
+    <div class="row">
+    <div class="flat-wrapper">
+    <div class="custom-info">
+    <!--<span>Have any questions?</span>-->
+    <span><i class="fa fa-map-marker"></i>353 Madhurda Housing Co-op Society Kolkata Pin-7000107 </span>
+    <span><i class="fa fa-phone"></i>+91 6202700058,+91 6202700059</span>
+    <span><i class="fa fa-envelope"></i>admin@mrtcgroup.in</span>
+    <span><i class="fa fa-phone"></i>For Claim -+91 6202700060</span>
+    
+    </div>
+    <div class="social-links">
+    <a href="https://www.linkedin.com/company/mrtcpl/mycompany/">
+    <i class="fa fa-linkedin"></i>
+    </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<header id="header" class="header">
+   
+    <div class="header-wrap">
+    <div id="logo" class="logo">
+    <a href="index04b9.html">
+    <img src="images/logo1.png" alt="images">
+    </a>
+    </div>
+    <div class="btn-menu">
+    <span></span>
+    </div>
+    
+    <div class="nav-wrap">
+    <nav id="mainnav" class="mainnav">
+    <div class="menu-extra">
+    <ul>
+    <li id="s" class="search-box">
+    <a href="#search" class="flat-search"><i class="fa fa-search"></i></a>
+    <div class="submenu top-search">
+    <div class="widget widget_search">
+    <form class="search-form">
+    <input type="search" class="search-field" placeholder="Search …">
+    <input type="submit" class="search-submit">
+    </form>
+    </div>
+    </div>
+    </li>
+    </li>
+    </ul>
+    </div>
+    <ul class="menu">
+    <li class="home">
+    <a href="index.html">Home</a>
+    <ul class="submenu">
+    
+    </ul>
+    </li>
+    <li><a href="about.html">About Us</a>
+    <ul class="submenu">
+    <li></li>
+    
+    
+    </ul>
+    </li>
+    <li><a href="services.html">Services</a>
+    
+    <li><a href="portfolio.html">Gallery</a>
+    <ul class="submenu">
+    
+    </ul>
+    </li>
+    </li>
+    <!--<li><a href="#">Pages</a>
+    <ul class="submenu">
+    <li><a href="404.html">404 page</a></li>
+    <li><a href="search.html">Search results</a></li>
+    </ul>
+    </li>-->
+    
+    <li><a href="contact.html">Contact</a></li>
+     </ul>
+    </nav>
+    </div>
+    </div>
+    </header>
+    </div>
+
+<div class="page-title parallax-style parallax1">
+<div class="overlay"></div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="page-title-heading">
+<h2>Track your shipment</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page-breadcrumbs">
+<div class="container">
+<div class="row">
+<div class="flat-wrapper">
+<div class="breadcrumbs">
+<h2 class="trail-browse">You are here:</h2>
+<ul class="trail-items">
+<li class="trail-item"><a href="index-v2.html">Home</a></li>
+<li>Track your shipment</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="flat-row">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="tracking-form-div">
+<h3 class="flat-title-section style mag-top0px">Track an Order</h3>
+<div style="width: 100%;">
+    <form>
+        <div class="col-md-3">
+            <div style="width: 80px; text-align: right; float: left;">
+                <span>
+                    CN No. :
+                </span>
+            </div>
+            <div style="width: 250px; text-align: right; float: left;">
+                <input type="text" id="txtConsignmentNo" placeholder="Enter Consignment no" style="float: left;">
+                <input id="btnGet" name="btnGet" type="button" value="Get" style="float: left;">
+            </div>
+        </div>
+    </form>
+</div>
+<div style="clear: both;">
+    <fieldset>
+        <legend>Consginment Details</legend>
+        <div style="text-align:center;">
+            <h4>STATUS DESCRIPTION</h4>
+        </div>
+        <table style="width:70%;">
+            <tr>
+                <td>
+                    <table id="tbcnmt" style="width:100%;display:none;">
+                        <tr>
+                            <td>
+                                CN No
+                            </td>
+                            <td>
+                                <label id="lblCNNo"></label>
+                            </td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                CN Date
+                            </td>
+                            <td>
+                                <label id="lblCNDate"></label>
+                            </td>
+                            <!--<td>Delivered</td>
+                            <td>
+                                <label id="lblDelivery"></label>
+                            </td>
+                        </tr>-->
+                        <tr>
+                            <td>
+                                Consignee
+                            </td>
+                            <td>
+                                <label id="lblConsignee"></label>
+                            </td>
+                            <!--<td>
+                                In Transit
+                            </td>
+                            <td>
+                                <label id="lblIntransit"></label>
+                            </td>
+                        </tr>-->
+                        <tr>
+                            <td>
+                                From
+                            </td>
+                            <td>
+                                <label id="lblFrom"></label>
+                            </td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                To
+                            </td>
+                            <td>
+                                <label id="lblTo"></label>
+                            </td>
+                            <!--<td>Undelivered</td>
+                            <td>
+                                <label id="lblUndelivered"></label>
+                            </td>
+                        </tr>-->
+                        <tr>
+                            <td>
+                                Status
+                            </td>
+                            <td>
+                                <label id="lblStatus" style="background-color:skyblue; font-weight:bolder; font-size:15px;"></label>
+                            </td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </table>
+                </td>`  
+            </tr>
+            <tr>
+                <td>
+                    <div id="grid" style="display:none;">
+                        <table id="tbGrid" style="width:80%" border="1">
+                            <thead style="background-color:rgb(59, 167, 230);">
+                                <tr>
+                                    <th>
+                                        Item
+                                    </th>
+                                    <th>
+                                        Pkgs
+                                    </th>
+                                    <th>
+                                        Weight
+                                    </th>
+                                    <th>
+                                        Invoice No
+                                    </th>
+                                    <th>
+                                        Invoice Date
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <!--<div id="movement" style="display:none; padding-top:100PX;">
+                        <div style="text-align:center;">
+                            <h4>
+                                MOVEMENT DETAIL
+                            </h4>
+                        </div>
+                        <table id="movementGrid" style="width:100%" border="1">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        Dispatch From
+                                    </th>
+                                    <th>
+                                        To
+                                    </th>
+                                    <th>
+                                        Date
+                                    </th>
+                                    <th>
+                                        Arrival Date
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>-->
+
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+</div>
+
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer class="footer">
+    <div class="content-bottom-widgets">
+    <div class="container">
+    <div class="row">
+    <div class="flat-wrapper">
+    <div class="ft-wrapper clearfix">
+    <div class="footer-50">
+    <div class="row">
+    <div class="col-md-4">
+    <div class="counter">
+    <div class="counter-image"><i class="fa fa-building-o"></i></div>
+    <div class="numb-count" tag="+" data-to="55+" data-speed="3000" data-waypoint-active="yes">55+</div><span>+</span>
+    <div class="counter-title">
+    Offices & Branches
+     </div>
+    </div>
+    </div>
+    <div class="col-md-4">
+    <div class="counter ft-style1">
+    <div class="counter-image"><i class="fa fa-group"></i></div>
+    <div class="numb-count" data-to="100"  data-speed="3000" data-waypoint-active="yes"></div><span>+</span>
+    <div class="counter-title">
+    Hardworking people
+    </div>
+    </div>
+    </div>
+    <div class="col-md-4">
+    <div class="counter ft-style2">
+    <div class="counter-image"><i class="fa fa-globe"></i></div>
+    <div class="numb-count" data-to="08+" data-speed="3000" data-waypoint-active="yes">08+</div><span>+</span>
+    <div class="counter-title">
+    states branches
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="footer-50">
+    <div class="subscribe-form">
+    <div class="row">
+    <div class="col-md-8">
+    <input type="email" name="EMAIL" placeholder="Your email address" required="">
+    </div>
+    <div class="col-md-4">
+    <input type="submit" value="Subscribe">
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="footer-widgets">
+    <div class="container">
+    <div class="row">
+    <div class="col-md-3">
+    <div class="widge widget_text">
+    <div class="textwidget">
+    <h2>Maa Rudra Transport Carriers Pvt. Ltd. </h2>
+    </div>
+    </div>
+    </div>
+    <div class="col-md-3">
+    <div class="widget widget_recent_entries">
+    <!--<h4 class="widget-title">Recent News</h4>--->
+    <ul>
+    <!---------high lights-->
+    </ul>
+    </div>
+    </div>
+    <div class="col-md-3">
+    <div class="widget widget_nav_menu">
+    <h3 class="widget-title">Quick Links</h3>
+    <div class="menu-footer-menu-container">
+    <ul class="menu-footer-menu">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About us</a></li>
+    <li><a href="services.html">Services</a></li>
+    <li><a href="contact.html">Contact us</a></li>
+    <li><a href="gallary.html">Gallery</a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div class="col-md-3">
+    <div class="widget widget_text information">
+    <h3 class="widget-title">Contact Us</h3>
+    <div class="textwidget">
+    <p><strong>353 Madhurda Housing Co-op Society Kolkata</strong></p>
+    <p>
+    <i class="fa fa-phone"></i>+91 6202700058<br>
+    <i class="fa fa-phone"></i>+91 6202700059<br>
+    <p><strong>For Claim    +91 6202700060</strong></p>
+    <i class="fa fa-envelope"></i><a href="admin@mrtcgroup.in" class="__cf_email__" data-cfemail="#">Admin@mrtcgroup.in</a>
+    </p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="footer-content">
+    <div class="container">
+    <div class="row">
+    <div class="flat-wrapper">
+    <div class="ft-wrap clearfix">
+    <div class="social-links">
+    <a href="#"><i class="fa fa-linkedin"></i></a>
+    
+    </div>
+    <div class="copyright">
+    <div class="copyright-content">
+    Copyright © 2021 MRTC. 
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+     </div>
+    </div>
+    </footer>
+    
+    <a class="go-top">
+    <i class="fa fa-chevron-up"></i>
+    </a>
+    </div>
+
+<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="javascript/jquery.min.js"></script>
+<script type="text/javascript" src="javascript/bootstrap.min.js"></script>
+<script type="text/javascript" src="javascript\json_track.js"> </script>
+<script type="text/javascript" src="javascript/jquery.easing.js"></script>
+<script type="text/javascript" src="javascript/jquery-waypoints.js"></script>
+<script type="text/javascript" src="javascript/jquery.cookie.js"></script>
+<script type="text/javascript" src="javascript/parallax.js"></script>
+<script type="text/javascript" src="javascript/switcher.js"></script>
+<script type="text/javascript" src="javascript/main.js"></script>
+</body>
+
+<!-- Mirrored from themesflat.com/html/canava/track-an-order.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Feb 2023 08:18:09 GMT -->
+</html>

@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Jul 2023 14:14:25 at https://themexriver.com/wp/gxbar/home-1/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themexriver.com/wp/gxbar/home-1/ -O1 "C:\My Web Sites\xtecgh" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:14:59	Error: 	"Not Found" (404) at link https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/css/mCSB_buttons.png (from https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/css/jquery.mCustomScrollbar.min.css?ver=6.2.2)
+14:14:59	Error: 	"Not Found" (404) at link https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/css/owl.video.play.png (from https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/css/owl.css?ver=6.2.2)
+14:14:59	Error: 	"Not Found" (404) at link https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/images/icons/icon-3.png (from https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/css/style.css?ver=6.2.2)
+14:14:59	Error: 	"Not Found" (404) at link https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/images/icons/icon-4.png (from https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/css/style.css?ver=6.2.2)
+14:14:59	Error: 	"Not Found" (404) at link https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/images/icons/separator.png (from https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/css/style.css?ver=6.2.2)
+14:14:59	Error: 	"Not Found" (404) at link https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/images/background/price-pattern.png (from https://themexriver.com/wp/gxbar/wp-content/themes/gxber/assets/css/style.css?ver=6.2.2)
+14:15:00	Warning: 	File not parsed, looks like binary: https://themexriver.com/wp/gxbar/wp-content/plugins/revslider/public/assets/css/openhand.cur
+14:15:00	Warning: 	File not parsed, looks like binary: https://themexriver.com/wp/gxbar/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 139 links scanned, 132 files written (12636145 bytes overall) [10293925 bytes received at 294112 bytes/sec], 3824885 bytes transferred using HTTP compression in 80 files, ratio 27%, 46.3 requests per connection
+(6 errors, 2 warnings, 0 messages)
