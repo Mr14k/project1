@@ -17,7 +17,7 @@ else { //IF PRODUCTION ENVIRONMENT - Use DB from heroku
     $cleardb_db = substr($cleardb_url["path"], 1);
     $active_group = 'default';
     $query_builder = TRUE;
-
+//m1_6_test_perform_
     // Connect to DB
     $con = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
 }
